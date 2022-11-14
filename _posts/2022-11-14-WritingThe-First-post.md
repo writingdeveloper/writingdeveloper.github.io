@@ -1,7 +1,7 @@
 ---
 title: WritingThe-First-post
 date: 2022-11-14 14:12:00 +09:00
-categories: [Development, SUB_CATEGORIE]
+categories: [Programming]
 tags: [TAG] # TAG names should always be lowercase
 ---
 
